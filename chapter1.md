@@ -10,6 +10,7 @@ type: NormalExercise
 lang: r
 xp: 100
 skills: 1
+key: 2dc0c5c8b2
 ```
 
 This is the Context. It should help provide students with the background information needed.
